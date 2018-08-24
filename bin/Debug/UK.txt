@@ -1,0 +1,14 @@
+Show
+TAKE
+Select ID
+Select Item
+Select language
+Rent
+Settings
+Available Items
+Cannot connect with DataBase
+How many battery ?
+Ok
+User
+Password
+Confirm

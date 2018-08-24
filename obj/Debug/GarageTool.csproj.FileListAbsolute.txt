@@ -1,0 +1,399 @@
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\bin\Debug\GarageTool.exe.config
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\bin\Debug\GarageTool.exe
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\bin\Debug\GarageTool.pdb
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\MainWindow.g.cs
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\App.g.cs
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.cache
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.lref
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\MainWindow.baml
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool.g.resources
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool.exe
+c:\users\paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool.pdb
+C:\Users\Paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\bin\Debug\Google.Protobuf.dll
+C:\Users\Paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\bin\Debug\MySql.Data.dll
+C:\Users\Paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\bin\Debug\Google.Protobuf.xml
+C:\Users\Paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\bin\Debug\MySql.Data.xml
+C:\Users\Paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\Interop.VSLangProj.dll
+C:\Users\Paweł\documents\visual studio 2017\Projects\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+D:\GarageTool\GarageTool\bin\Debug\GarageTool.exe.config
+D:\GarageTool\GarageTool\bin\Debug\GarageTool.exe
+D:\GarageTool\GarageTool\bin\Debug\GarageTool.pdb
+D:\GarageTool\GarageTool\bin\Debug\Google.Protobuf.dll
+D:\GarageTool\GarageTool\bin\Debug\MySql.Data.dll
+D:\GarageTool\GarageTool\bin\Debug\Google.Protobuf.xml
+D:\GarageTool\GarageTool\bin\Debug\MySql.Data.xml
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+D:\GarageTool\GarageTool\obj\Debug\Interop.EnvDTE.dll
+D:\GarageTool\GarageTool\obj\Debug\Interop.VSLangProj.dll
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+D:\GarageTool\GarageTool\obj\Debug\MainWindow.g.cs
+D:\GarageTool\GarageTool\obj\Debug\App.g.cs
+D:\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.cache
+D:\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.lref
+D:\GarageTool\GarageTool\obj\Debug\MainWindow.baml
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.g.resources
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.Properties.Resources.resources
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.CoreCompileInputs.cache
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.exe
+D:\GarageTool\GarageTool\obj\Debug\GarageTool.pdb
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.exe.config
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.exe
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.pdb
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\bin\Debug\Google.Protobuf.dll
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\bin\Debug\MySql.Data.dll
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\bin\Debug\Google.Protobuf.xml
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\bin\Debug\MySql.Data.xml
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\Interop.EnvDTE.dll
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\Interop.VSLangProj.dll
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\MainWindow.g.cs
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\Map.g.cs
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\App.g.cs
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.cache
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.lref
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\MainWindow.baml
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\Map.baml
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.g.resources
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.Properties.Resources.resources
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.CoreCompileInputs.cache
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.exe
+C:\Users\MIBW\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.pdb
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.exe.config
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.exe
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.pdb
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\Google.Protobuf.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\MySql.Data.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\Google.Protobuf.xml
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\MySql.Data.xml
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Interop.EnvDTE.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Interop.VSLangProj.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\MainWindow.g.cs
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Map.g.cs
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\App.g.cs
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.cache
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.lref
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\MainWindow.baml
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Map.baml
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.g.resources
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.Properties.Resources.resources
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.CoreCompileInputs.cache
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.exe
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.pdb
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Window1.g.cs
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Window1.baml
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\EditItems.g.cs
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\EditItems.baml
+D:\moje apki\GarageTool\GarageTool\bin\Debug\GarageTool.exe.config
+D:\moje apki\GarageTool\GarageTool\bin\Debug\GarageTool.exe
+D:\moje apki\GarageTool\GarageTool\bin\Debug\GarageTool.pdb
+D:\moje apki\GarageTool\GarageTool\bin\Debug\Google.Protobuf.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\MySql.Data.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\Google.Protobuf.xml
+D:\moje apki\GarageTool\GarageTool\bin\Debug\MySql.Data.xml
+D:\moje apki\GarageTool\GarageTool\obj\Debug\Interop.EnvDTE.dll
+D:\moje apki\GarageTool\GarageTool\obj\Debug\Interop.VSLangProj.dll
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+D:\moje apki\GarageTool\GarageTool\obj\Debug\EditItems.g.cs
+D:\moje apki\GarageTool\GarageTool\obj\Debug\MainWindow.g.cs
+D:\moje apki\GarageTool\GarageTool\obj\Debug\Map.g.cs
+D:\moje apki\GarageTool\GarageTool\obj\Debug\Window1.g.cs
+D:\moje apki\GarageTool\GarageTool\obj\Debug\App.g.cs
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.cache
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.lref
+D:\moje apki\GarageTool\GarageTool\obj\Debug\EditItems.baml
+D:\moje apki\GarageTool\GarageTool\obj\Debug\MainWindow.baml
+D:\moje apki\GarageTool\GarageTool\obj\Debug\Map.baml
+D:\moje apki\GarageTool\GarageTool\obj\Debug\Window1.baml
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.g.resources
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.Properties.Resources.resources
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.exe
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.pdb
+D:\moje apki\GarageTool\GarageTool\bin\Debug\zxing.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\zxing.presentation.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\zxing.pdb
+D:\moje apki\GarageTool\GarageTool\bin\Debug\zxing.xml
+D:\moje apki\GarageTool\GarageTool\bin\Debug\zxing.presentation.pdb
+D:\moje apki\GarageTool\GarageTool\bin\Debug\zxing.presentation.xml
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\zxing.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\zxing.presentation.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\zxing.pdb
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\zxing.xml
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\zxing.presentation.pdb
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\zxing.presentation.xml
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\itextsharp.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\itextsharp.xml
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.exe.manifest
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\GarageTool.application
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.exe.manifest
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.application
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+D:\moje apki\GarageTool\GarageTool\bin\Debug\GarageTool.exe.manifest
+D:\moje apki\GarageTool\GarageTool\bin\Debug\GarageTool.application
+D:\moje apki\GarageTool\GarageTool\bin\Debug\itextsharp.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\itextsharp.xml
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.exe.manifest
+D:\moje apki\GarageTool\GarageTool\obj\Debug\GarageTool.application
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.xml
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\da\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\de\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\es\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\fr\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\it\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\ko\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\nl\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\pl\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\pt\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\ru\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\sv\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\tr\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\bin\Debug\zh\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.pdb
+D:\moje apki\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.xml
+D:\moje apki\GarageTool\GarageTool\bin\Debug\da\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\de\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\es\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\fr\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\it\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\ko\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\nl\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\pl\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\pt\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\ru\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\sv\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\tr\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\bin\Debug\zh\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Identyfikacja.g.cs
+C:\Users\paze\Desktop\GarageTool\GarageTool\obj\Debug\Identyfikacja.baml
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\GarageTool.exe.config
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\GarageTool.exe.manifest
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\GarageTool.application
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\GarageTool.exe
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\GarageTool.pdb
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\Google.Protobuf.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\itextsharp.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\MySql.Data.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\zxing.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\zxing.presentation.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.pdb
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\AutoUpdater.NET.xml
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\Google.Protobuf.xml
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\itextsharp.xml
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\MySql.Data.xml
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\zxing.pdb
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\zxing.xml
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\zxing.presentation.pdb
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\zxing.presentation.xml
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\da\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\de\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\es\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\fr\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\it\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\ko\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\nl\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\pl\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\pt\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\ru\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\sv\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\tr\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\bin\Debug\zh\AutoUpdater.NET.resources.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Interop.EnvDTE.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Interop.VSLangProj.dll
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\EditItems.g.cs
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Identyfikacja.g.cs
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\MainWindow.g.cs
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Map.g.cs
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Window1.g.cs
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\App.g.cs
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.cache
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool_MarkupCompile.lref
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\EditItems.baml
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Identyfikacja.baml
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\MainWindow.baml
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Map.baml
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\Window1.baml
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.g.resources
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.Properties.Resources.resources
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.exe.manifest
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.application
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.exe
+D:\moje apki\GarageTool\GarageTool\GarageTool\obj\Debug\GarageTool.pdb
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\GarageTool.exe.config
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\GarageTool.exe.manifest
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\GarageTool.application
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\GarageTool.exe
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\GarageTool.pdb
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\AutoUpdater.NET.xml
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\Google.Protobuf.xml
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\itextsharp.xml
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\MySql.Data.xml
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\zxing.pdb
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\zxing.xml
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\zxing.presentation.pdb
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\zxing.presentation.xml
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\da\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\de\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\es\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\fr\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\it\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\ko\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\nl\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\pl\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\pt\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\ru\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\sv\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\tr\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\bin\Debug\zh\AutoUpdater.NET.resources.dll
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Interop.EnvDTE.dll
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Interop.VSLangProj.dll
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\EditItems.g.cs
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Identyfikacja.g.cs
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\MainWindow.g.cs
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Map.g.cs
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Window1.g.cs
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\App.g.cs
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool_MarkupCompile.cache
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool_MarkupCompile.lref
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\EditItems.baml
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Identyfikacja.baml
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\MainWindow.baml
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Map.baml
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\Window1.baml
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.g.resources
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.Properties.Resources.resources
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.csproj.CoreCompileInputs.cache
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.exe.manifest
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.application
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.exe
+C:\Users\paze\Desktop\GarageTool_new\obj\Debug\GarageTool.pdb
+C:\development\Garage\laptop\bin\Debug\GarageTool.exe.config
+C:\development\Garage\laptop\bin\Debug\GarageTool.exe.manifest
+C:\development\Garage\laptop\bin\Debug\GarageTool.application
+C:\development\Garage\laptop\bin\Debug\GarageTool.exe
+C:\development\Garage\laptop\bin\Debug\GarageTool.pdb
+C:\development\Garage\laptop\bin\Debug\AutoUpdater.NET.pdb
+C:\development\Garage\laptop\bin\Debug\AutoUpdater.NET.xml
+C:\development\Garage\laptop\bin\Debug\Google.Protobuf.xml
+C:\development\Garage\laptop\bin\Debug\itextsharp.xml
+C:\development\Garage\laptop\bin\Debug\MySql.Data.xml
+C:\development\Garage\laptop\bin\Debug\zxing.pdb
+C:\development\Garage\laptop\bin\Debug\zxing.xml
+C:\development\Garage\laptop\bin\Debug\zxing.presentation.pdb
+C:\development\Garage\laptop\bin\Debug\zxing.presentation.xml
+C:\development\Garage\laptop\bin\Debug\da\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\de\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\es\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\fr\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\it\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\ko\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\nl\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\pl\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\pt\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\ru\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\sv\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\tr\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\bin\Debug\zh\AutoUpdater.NET.resources.dll
+C:\development\Garage\laptop\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+C:\development\Garage\laptop\obj\Debug\Interop.EnvDTE.dll
+C:\development\Garage\laptop\obj\Debug\Interop.VSLangProj.dll
+C:\development\Garage\laptop\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+C:\development\Garage\laptop\obj\Debug\EditItems.g.cs
+C:\development\Garage\laptop\obj\Debug\Identyfikacja.g.cs
+C:\development\Garage\laptop\obj\Debug\MainWindow.g.cs
+C:\development\Garage\laptop\obj\Debug\Map.g.cs
+C:\development\Garage\laptop\obj\Debug\Window1.g.cs
+C:\development\Garage\laptop\obj\Debug\App.g.cs
+C:\development\Garage\laptop\obj\Debug\GarageTool_MarkupCompile.cache
+C:\development\Garage\laptop\obj\Debug\GarageTool_MarkupCompile.lref
+C:\development\Garage\laptop\obj\Debug\EditItems.baml
+C:\development\Garage\laptop\obj\Debug\Identyfikacja.baml
+C:\development\Garage\laptop\obj\Debug\MainWindow.baml
+C:\development\Garage\laptop\obj\Debug\Map.baml
+C:\development\Garage\laptop\obj\Debug\Window1.baml
+C:\development\Garage\laptop\obj\Debug\GarageTool.g.resources
+C:\development\Garage\laptop\obj\Debug\GarageTool.Properties.Resources.resources
+C:\development\Garage\laptop\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+C:\development\Garage\laptop\obj\Debug\GarageTool.csproj.CoreCompileInputs.cache
+C:\development\Garage\laptop\obj\Debug\GarageTool.exe.manifest
+C:\development\Garage\laptop\obj\Debug\GarageTool.application
+C:\development\Garage\laptop\obj\Debug\GarageTool.exe
+C:\development\Garage\laptop\obj\Debug\GarageTool.pdb
+D:\moje apki\development\Garage\laptop\bin\Debug\GarageTool.exe.config
+D:\moje apki\development\Garage\laptop\bin\Debug\GarageTool.exe.manifest
+D:\moje apki\development\Garage\laptop\bin\Debug\GarageTool.application
+D:\moje apki\development\Garage\laptop\bin\Debug\GarageTool.exe
+D:\moje apki\development\Garage\laptop\bin\Debug\GarageTool.pdb
+D:\moje apki\development\Garage\laptop\bin\Debug\AutoUpdater.NET.pdb
+D:\moje apki\development\Garage\laptop\bin\Debug\AutoUpdater.NET.xml
+D:\moje apki\development\Garage\laptop\bin\Debug\Google.Protobuf.xml
+D:\moje apki\development\Garage\laptop\bin\Debug\itextsharp.xml
+D:\moje apki\development\Garage\laptop\bin\Debug\MySql.Data.xml
+D:\moje apki\development\Garage\laptop\bin\Debug\zxing.pdb
+D:\moje apki\development\Garage\laptop\bin\Debug\zxing.xml
+D:\moje apki\development\Garage\laptop\bin\Debug\zxing.presentation.pdb
+D:\moje apki\development\Garage\laptop\bin\Debug\zxing.presentation.xml
+D:\moje apki\development\Garage\laptop\bin\Debug\da\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\de\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\es\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\fr\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\it\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\ja-JP\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\ko\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\nl\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\pl\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\pt\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\ru\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\sv\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\tr\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\bin\Debug\zh\AutoUpdater.NET.resources.dll
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.csprojResolveAssemblyReference.cache
+D:\moje apki\development\Garage\laptop\obj\Debug\Interop.EnvDTE.dll
+D:\moje apki\development\Garage\laptop\obj\Debug\Interop.VSLangProj.dll
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.csproj.ResolveComReference.cache
+D:\moje apki\development\Garage\laptop\obj\Debug\EditItems.g.cs
+D:\moje apki\development\Garage\laptop\obj\Debug\Identyfikacja.g.cs
+D:\moje apki\development\Garage\laptop\obj\Debug\MainWindow.g.cs
+D:\moje apki\development\Garage\laptop\obj\Debug\Map.g.cs
+D:\moje apki\development\Garage\laptop\obj\Debug\Window1.g.cs
+D:\moje apki\development\Garage\laptop\obj\Debug\App.g.cs
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool_MarkupCompile.cache
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool_MarkupCompile.lref
+D:\moje apki\development\Garage\laptop\obj\Debug\EditItems.baml
+D:\moje apki\development\Garage\laptop\obj\Debug\Identyfikacja.baml
+D:\moje apki\development\Garage\laptop\obj\Debug\MainWindow.baml
+D:\moje apki\development\Garage\laptop\obj\Debug\Map.baml
+D:\moje apki\development\Garage\laptop\obj\Debug\Window1.baml
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.g.resources
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.Properties.Resources.resources
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.csproj.GenerateResource.Cache
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.exe.manifest
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.application
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.exe
+D:\moje apki\development\Garage\laptop\obj\Debug\GarageTool.pdb
+C:\development\Garage\laptop\obj\Debug\ReportWindow.g.cs
+C:\development\Garage\laptop\obj\Debug\ReportWindow.baml

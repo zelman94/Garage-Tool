@@ -1,0 +1,14 @@
+Pokaz
+Wez
+Wybierz ID
+Wybierz przedmiot
+Wybierz jezyk
+Wypozyczenia
+Ustawienia
+Dostepna ilosc
+NIE MOZNA POLACZYC SIE Z DB
+Ile Chcesz baterii ? 
+Ok
+Uzytkownik
+Haslo
+Potwierdz
