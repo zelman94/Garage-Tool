@@ -164,7 +164,7 @@ namespace GarageTool
         }
         //--------
 
-        public List<string> bindItemToreturn (List<Item> namesItems) // zwraca nazwy
+        public List<string> bindItemToreturn (List<Device> namesItems) // zwraca nazwy
         {
             int i = 0;
             List<string> myItemsnames = new List<string>();
@@ -180,7 +180,7 @@ namespace GarageTool
 
         }
 
-        public List<string> bindID_items_Toreturn(List<Item> IDs, string name) // zwraca ID dla nazwy
+        public List<string> bindID_items_Toreturn(List<Device> IDs, string name) // zwraca ID dla nazwy
         {
 
             int i = 0;

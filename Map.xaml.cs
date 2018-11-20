@@ -20,9 +20,9 @@ namespace GarageTool
     public partial class Map : Window
     {
         public Map() { }
-        Item item;
+        Device item;
         Qrclass QrGenerator = new Qrclass();
-        public Map(Item item)
+        public Map(Device item)
         {
             try
             {

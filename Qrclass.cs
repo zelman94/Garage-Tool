@@ -78,7 +78,7 @@ namespace GarageTool
                 return tmp;
             }
         }
-        public Item GetItemFromstring(string item)
+        public Device GetItemFromstring(string item)
         {
             Char delimiter = ';';
             try
@@ -89,7 +89,7 @@ namespace GarageTool
                     dane.Add(substring);
 
                 System.Windows.Point tmp = new System.Windows.Point(Double.Parse(dane[2]), Double.Parse(dane[3]));
-                return new Item(dane[0], dane[1], tmp, dane[4], dane[5], dane[6]);
+                return new Device(dane[0], dane[1], tmp, dane[4], dane[5], dane[6]);
             }
             catch (Exception)
             {
@@ -98,9 +98,9 @@ namespace GarageTool
 
         }
 
-        public Item GetInfoQr()
+        public Device GetInfoQr()
         {
-            Item QrItem;//= new Item();
+            Device QrItem;//= new Item();
 
             Stream myStream = null;
             OpenFileDialog openFileDialog1 = new OpenFileDialog();

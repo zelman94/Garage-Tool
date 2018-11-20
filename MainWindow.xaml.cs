@@ -187,7 +187,7 @@ namespace GarageTool
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             cmbId.Items.Refresh();
-            Item tmp = dataBaseManager.GetItem(cmbItem.Text, cmbId.Text);
+            Device tmp = dataBaseManager.GetItem(cmbItem.Text, cmbId.Text);
             try
             {
                 SelectedQRItem.Source = QrGenerator.createQR(tmp.Get_stringfor_QR(tmp), 150);
@@ -225,7 +225,7 @@ namespace GarageTool
                 {
                     count_down = count_down_started;
 
-                    Item item = dataBaseManager.GetItem(cmbItem.Text, cmbId.Text);
+                    Device item = dataBaseManager.GetItem(cmbItem.Text, cmbId.Text);
 
                     Map map = new Map(item);
                     map.ShowDialog();
@@ -455,7 +455,7 @@ namespace GarageTool
         private void cmbIdReturn_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             cmbIdReturn.Items.Refresh();
-            Item tmp = dataBaseManager.GetItem(cmbItemReturn.Text, cmbIdReturn.Text);
+            Device tmp = dataBaseManager.GetItem(cmbItemReturn.Text, cmbIdReturn.Text);
             btnzwrot.FontWeight = FontWeights.Bold;
             btnWyp.IsEnabled = false;
 
@@ -488,7 +488,7 @@ namespace GarageTool
             {
                 try
                 {
-                    Item tmp = QrGenerator.GetItemFromstring(txtQrReadWypo.Text);
+                    Device tmp = QrGenerator.GetItemFromstring(txtQrReadWypo.Text);
 
                     cmbItem.SelectedValue = tmp.Name;
                     cmbId.ItemsSource = bindData.BindId(dataBaseManager.DB_connection, dataBaseManager.GetIdItems(cmbItem.Text.ToString(), false));
@@ -514,7 +514,7 @@ namespace GarageTool
             {
                 try
                 {
-                    Item tmp = QrGenerator.GetItemFromstring(txtqedatazw.Text);
+                    Device tmp = QrGenerator.GetItemFromstring(txtqedatazw.Text);
 
                     cmbItemReturn.SelectedValue = tmp.Name;
                     cmbIdReturn.ItemsSource = bindData.bindID_items_Toreturn(dataBaseManager.GetMyRentItemsNames(), cmbItemReturn.Text);
@@ -578,10 +578,10 @@ namespace GarageTool
 
         private void Timer_Tick_test(object sender, EventArgs e)
         {
-            Item item_fromDB=null;
+            Device item_fromDB=null;
             if (txtQRtoreadandfind.Text != "")
             {
-                Item tmp = QrGenerator.GetItemFromstring(txtQRtoreadandfind.Text);
+                Device tmp = QrGenerator.GetItemFromstring(txtQRtoreadandfind.Text);
                 
                 try
                 {
@@ -672,7 +672,7 @@ namespace GarageTool
             {
                 if (cmbIdFind.SelectedIndex != -1)
                 { // tutaj wpisać kod na wyszukupianie po ID 
-                    Item tmp = dataBaseManager.GetItem(cmbItemFind.Text, cmbIdFind.Text);
+                    Device tmp = dataBaseManager.GetItem(cmbItemFind.Text, cmbIdFind.Text);
                     try
                     {
                         System.Windows.MessageBox.Show(tmp.Owner);

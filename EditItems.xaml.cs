@@ -164,7 +164,7 @@ namespace GarageTool
             cmbId.Items.Refresh();
 
             // dodac bindowanie dla edycji 
-            Item item = dataBaseManagerEdit.GetItem(cmbItem.Text, cmbId.Text);
+            Device item = dataBaseManagerEdit.GetItem(cmbItem.Text, cmbId.Text);
             if (item != null)
             {
                 cmbName.Text = item.Name;

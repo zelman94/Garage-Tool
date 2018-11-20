@@ -575,9 +575,9 @@ namespace GarageTool
             
         }
        
-        public List<Item> GetMyRentItemsNames()
+        public List<Device> GetMyRentItemsNames()
         {
-            List<Item> MyItems = new List<Item>();
+            List<Device> MyItems = new List<Device>();
             if (DB_connection)
             {
                 MySqlDataReader myReader;
@@ -592,7 +592,7 @@ namespace GarageTool
                         while (myReader.Read())
                         {                  
                             Point tmp_pkt = new Point(Convert.ToDouble(myReader.GetString(2)), Convert.ToDouble(myReader.GetString(3)));
-                            Item tmp = new Item(myReader.GetString(0), myReader.GetString(1),tmp_pkt);
+                            Device tmp = new Device(myReader.GetString(0), myReader.GetString(1),tmp_pkt);
                             MyItems.Add(tmp);
                         }
 
@@ -715,9 +715,9 @@ namespace GarageTool
         }
 
 
-        public Item GetItem(string name, string Id) // zwraca obiekt Item 
+        public Device GetItem(string name, string Id) // zwraca obiekt Item 
         {
-            Item item ;
+            Device item ;
             if (DB_connection)
             {
                 MySqlDataReader myReader;
@@ -741,12 +741,12 @@ namespace GarageTool
                             //tmp = myReader.GetString(7);
                             try
                             {
-                                item = new Item(myReader.GetString(0), myReader.GetString(1), tmp_pkt, myReader.GetString(5), myReader.GetString(4), myReader.GetString(6), myReader.GetString(7));
+                                item = new Device(myReader.GetString(0), myReader.GetString(1), tmp_pkt, myReader.GetString(5), myReader.GetString(4), myReader.GetString(6), myReader.GetString(7));
 
                             }
                             catch (Exception x)
                             {
-                                item = new Item(myReader.GetString(0), myReader.GetString(1), tmp_pkt, myReader.GetString(5), myReader.GetString(4), myReader.GetString(6));
+                                item = new Device(myReader.GetString(0), myReader.GetString(1), tmp_pkt, myReader.GetString(5), myReader.GetString(4), myReader.GetString(6));
 
                             }
                             return item;
