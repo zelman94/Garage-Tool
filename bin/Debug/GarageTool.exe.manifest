@@ -222,14 +222,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GarageTool.exe" size="257944">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GarageTool.exe" size="257432">
       <assemblyIdentity name="GarageTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2jYAQb3t5oRFLTkPz/cdhXD/guEjXDsOZ4z+8OV2bO4=</dsig:DigestValue>
+        <dsig:DigestValue>PS/T0oj3UH3/SV3Lhn9avUJOHoxITg8LlyIdSaPls/Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
