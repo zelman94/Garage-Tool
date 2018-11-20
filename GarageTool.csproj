@@ -113,6 +113,7 @@
       <DependentUpon>Identyfikacja.xaml</DependentUpon>
     </Compile>
     <Compile Include="Qrclass.cs" />
+    <Compile Include="RemDevice.cs" />
     <Compile Include="ReportWindow.xaml.cs">
       <DependentUpon>ReportWindow.xaml</DependentUpon>
     </Compile>
@@ -137,7 +138,7 @@
     </Compile>
     <Compile Include="BindData.cs" />
     <Compile Include="DataBaseManager.cs" />
-    <Compile Include="Item.cs" />
+    <Compile Include="Device.cs" />
     <Compile Include="jezyki.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

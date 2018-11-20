@@ -14,6 +14,7 @@ namespace GarageTool
 
         public RemDevice(string val)
         {
+            
             validation = val;
         }
 
